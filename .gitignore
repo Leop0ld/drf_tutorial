@@ -1,5 +1,12 @@
 .DS_Store
+
+# Editor / IDE
 .idea/*
 .vscode/*
+
+# Cache files
 */__pycache__/*
 *.pyc
+
+# Database
+db.sqlite3
